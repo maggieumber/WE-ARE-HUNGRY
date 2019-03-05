@@ -52,7 +52,7 @@ function preload() {
   // Load Chunk Font by Meredith Mandel https://www.theleagueofmoveabletype.com/chunk
   myFont = loadFont('chunk-master/webfonts/Chunkfive-webfont.ttf');
   // mother spider
-  motherSpider = loadAnimation("assets/mother_Spider_0000.png", "assets/mother_Spider_0001.png", "assets/mother_Spider_0002.png", "assets/mother_Spider_0003.png", "assets/mother_Spider_0004.png", "assets/mother_Spider_0005.png", "assets/mother_Spider_0006.png", "assets/mother_Spider_0007.png", "assets/mother_Spider_0008.png", "assets/mother_Spider_0009.png", "assets/mother_Spider_0010.png", "assets/mother_Spider_0011.png", "assets/mother_Spider_0012.png");
+  motherSpider = loadAnimation("assets/mother_Spider_0000.png", "assets/mother_Spider_0012.png");
   motherSpider.playing = false;
 }
 
