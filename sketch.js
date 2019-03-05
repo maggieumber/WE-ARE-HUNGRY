@@ -175,6 +175,7 @@ msg.text = [
   "We Are Hungry by Maggie Umber",
   "Made for Z NOT DEAD 9",
   "Ossuary 6 Air by Kevin MacLeod",
-  "Chunk Font by Meredith Mandel"
+  "Chunk Font by Meredith Mandel",
+  "goooooood niiiiiiight noooooooowwwwwwaaahhhh"
 ];
 msg.lang = 'en-US';
